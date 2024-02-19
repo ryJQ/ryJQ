@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @ryJQ
+- 👋 Hi, I’m Jack
 - 👀 I’m interested in studio film maker
+- ⚡ I'm totally new to programming
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Glad to know guys
+- ⚡ Follow me on instagram @zackey_7i
 
 <!---
 ryJQ/ryJQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
