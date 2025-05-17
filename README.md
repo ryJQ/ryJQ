@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I’m passionate about technology, especially in t
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azakifh/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/azakifh/)
 
-![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/adityadev&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)
+![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ryJQ&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)
 
 ---
 > "info loker bang."  
